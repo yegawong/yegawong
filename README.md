@@ -8,7 +8,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="coding.gif" /><br>
+  <img src="codinggif.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -25,3 +25,29 @@
 </picture>
 
 </div>
+
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yegawong&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></td>
+    <td>
+      <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=yegawong&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=yegawong&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=yegawong&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+    </picture>
+    </td>
+  </tr>
+</table>
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=yegawong&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+  </tr>
+</table>
