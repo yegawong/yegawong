@@ -3,12 +3,12 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://domocloud.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C%20World%22);Wish you happy every day&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="codinggif.gif" /><br>
+  <!-- img src="codinggif.gif" /><br-->
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -18,11 +18,11 @@
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
+<!--picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-contribution-grid-snake-dark.svg" />
-</picture>
+</picture-->
 
 </div>
 
@@ -46,8 +46,8 @@
   </tr>
 </table>
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
+<!--table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=yegawong&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
   </tr>
-</table>
+</table-->
